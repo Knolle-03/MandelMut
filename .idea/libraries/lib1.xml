@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DaeImporter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MaxLoader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ObjOrPolyObjImporter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MayaImporter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
